@@ -1,6 +1,25 @@
 # HOMIE Coffee
 
 HOMIE Coffee is a high-end, immersive web experience designed to showcase the brand's premium coffee offerings through interactive storytelling. The website seamlessly blends advanced web technologies with aesthetic design to create a digital journey that mirrors the quality of the cafe itself.
+## 🖼️ Experience Gallery
+
+<p align="center">
+  <img src="1.png" width="80%" />
+</p>
+
+<details>
+<summary><strong>➡️ View More Screens</strong></summary>
+
+<p align="center">
+  <img src="2.png" width="45%" />
+  <img src="3.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="4.png" width="45%" />
+</p>
+
+</details>
 
 ## Getting Started
 
